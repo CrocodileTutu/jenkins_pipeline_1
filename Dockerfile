@@ -6,3 +6,5 @@ WORKDIR $workdirectory
 
 COPY ./src .
 
+EXPOSE 3000
+
